@@ -34,6 +34,8 @@ Ideal for therapy bots, customer service kiosks, or personal digital assistants 
 
 ### 📊 Model Training Summary
 
+1. Trial #0
+
 | Epoch | Training Accuracy | Validation Accuracy | Validation Loss |
 |-------|-------------------|---------------------|-----------------|
 | 1     | 24.84%            | 30.45%              | 1.7278          |
@@ -56,5 +58,7 @@ Ideal for therapy bots, customer service kiosks, or personal digital assistants 
 | 18    | 97.77%            | 44.41%              | 3.1052          |
 | 19    | 98.22%            | 45.25%              | 3.3375          |
 | 20    | 99.10%            | 44.90%              | 3.6605          |
+
+![Trial #0](yh/Trial #0.png)
 
 
