@@ -12,15 +12,17 @@
 
 -----
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies and Data set Used
 
 - TensorFlow / Keras – For CNN-based emotion classification
+- MobileNetV2 - Lightweight and fast**, ideal for embedded/mobile scenarios
 - EfficientNetB0 – Lightweight, high-accuracy backbone for real-time inference
 - OpenAI GPT API – To generate emotionally aware responses
 - Eleven Labs API – For high-quality speech synthesis
 - Flask / Streamlit / PyQt (optional) – For interactive UI (customizable)
 - OpenCV – For live webcam feed and face detection
-- Ideal for therapy bots, customer service kiosks, or personal digital assistants where empathetic interaction enhances user experience.
+- Ideal for therapy bots, customer service kiosks, or personal digital assistants where empathetic interaction enhances user experience
+- FER-2013 dataset
 
 ----
 
