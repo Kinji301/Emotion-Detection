@@ -30,3 +30,12 @@
 
 Ideal for therapy bots, customer service kiosks, or personal digital assistants where empathetic interaction enhances user experience.
 
+----
+
+# Data 
+
+| Epochs | Training Accuracy | Validation Accuracy | Validation Loss |
+|........|...................|.....................|.................|
+
+
+
