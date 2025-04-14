@@ -59,6 +59,7 @@ Ideal for therapy bots, customer service kiosks, or personal digital assistants 
 | 19    | 98.22%            | 45.25%              | 3.3375          |
 | 20    | 99.10%            | 44.90%              | 3.6605          |
 
-![Trial #0](yh/Trial #0.png)
+![Trial 0](yh/trial_0.png)
+
 
 
