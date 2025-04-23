@@ -81,6 +81,18 @@ Trial #2
 ![Trial 1](yh/Trial_1.png)
 
 
+### 📊 Results Comparison Table
+
+| Trial     | Epochs | Training Accuracy | Validation Accuracy | Notes |
+|-----------|--------|-------------------|----------------------|-------|
+| Trial #0  | 20     | 99.10%            | 44.90%               | Overfitting due to bad datasplit |
+| Trial #1  | 10     | 57.84%            | 54.92%               | Improved datasplit, but still fluctuates |
+| Trial #2  | 15     | 42.92%            | 44.52%               | A slight decline from Trial #1 |
+| Trial #3  | 40     | 64.10%            | 60.20%               | Learning Rate Scheduler, GlobalAvgPooling instead of Flatten, better augmentation |
+| Trial #4  | 40     | 61.29%            | 60.00%               | Tweaked LR from Trial #3, Dropout reduced to 0.4, Added early stopping, contrast & brightness changes, denser FC layer |
+| Trial #5  | 50     | 70.94%            | 64.24% ✅             | Used MobileNetV2 (last 50 layers trainable), ImageDataGenerator for augmentation, Layer-wise dropout, BatchNorm, ReduceLROnPlateau — Best performing baseline |
+
+
 
 
 
