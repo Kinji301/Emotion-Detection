@@ -108,6 +108,8 @@ Ideal for therapy bots, customer service kiosks, or personal digital assistants 
 | 35    | 59.58%             | 59.94%              | 1.0931          |
 | 40    | 61.29%             | 59.94%              | 1.0599          |
 
+![Trial 4](yh/Trial_4.png)
+
 ### Trial 5
 
 | Epoch | Training Accuracy | Validation Accuracy | Validation Loss |
