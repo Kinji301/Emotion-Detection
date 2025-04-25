@@ -34,7 +34,7 @@ Ideal for therapy bots, customer service kiosks, or personal digital assistants 
 
 ### 📊 Model Training Summary
 
-1. Trial #0
+### Trial #0
 
 | Epoch | Training Accuracy | Validation Accuracy | Validation Loss |
 |-------|-------------------|---------------------|-----------------|
@@ -63,7 +63,7 @@ Ideal for therapy bots, customer service kiosks, or personal digital assistants 
 ![Trial 0](yh/Trial_0.png)
 
 
-Trial #2
+### Trial #2
 
 | Epoch | Training Accuracy | Validation Accuracy | Validation Loss |
 |-------|-------------------|---------------------|-----------------|
@@ -81,7 +81,7 @@ Trial #2
 ![Trial 1](yh/Trial_1.png)
 
 
-### Trial #3 (40 Epochs - Data Augmentation (shear) and Learning Rate)
+### Trial #3 
 
 | Epoch | Training Accuracy | Validation Accuracy | Validation Loss |
 |:-----:|:-----------------:|:-------------------:|:---------------:|
@@ -93,6 +93,45 @@ Trial #2
 | 40    | 64.11%             | 60.23%              | 1.0540          |
 
 ![Trial 3](yh/Trial_3.png)
+
+### Trial #4 
+
+| Epoch | Training Accuracy | Validation Accuracy | Validation Loss |
+|:-----:|:-----------------:|:-------------------:|:---------------:|
+| 1     | 23.05%             | 29.56%              | 1.7268          |
+| 5     | 40.76%             | 39.19%              | 1.5437          |
+| 10    | 46.09%             | 48.48%              | 1.4691          |
+| 15    | 50.01%             | 49.22%              | 1.3456          |
+| 20    | 53.24%             | 54.28%              | 1.3250          |
+| 25    | 56.45%             | 55.15%              | 1.2099          |
+| 30    | 58.10%             | 57.50%              | 1.1797          |
+| 35    | 59.58%             | 59.94%              | 1.0931          |
+| 40    | 61.29%             | 59.94%              | 1.0599          |
+
+### Trial 5
+
+| Epoch | Training Accuracy | Validation Accuracy | Validation Loss |
+|:-----:|:-----------------:|:-------------------:|:---------------:|
+| 5     | 42.76%             | 47.60%              | 1.3738          |
+| 10    | 50.99%             | 53.86%              | 1.1922          |
+| 15    | 54.06%             | 56.51%              | 1.1331          |
+| 20    | 56.01%             | 58.01%              | 1.0994          |
+| 25    | 58.33%             | 59.58%              | 1.0698          |
+| 30    | 59.57%             | 59.92%              | 1.0669          |
+| 35    | 61.06%             | 60.46%              | 1.0415          |
+| 40    | 62.02%             | 61.41%              | 1.0383          |
+| 45    | 63.15%             | 60.87%              | 1.0406          |
+| 50    | 64.70%             | 61.15%              | 1.0295          |
+| 55    | 65.52%             | 61.77%              | 1.0273          |
+| 60    | 66.32%             | 62.12%              | 1.0334          |
+| 65    | 68.05%             | 62.12%              | 1.0215          |
+| 70    | 68.18%             | 62.61%              | 1.0167          |
+| 75    | 69.45%             | 63.03%              | 1.0144          |
+| 80    | 70.16%             | 62.89%              | 1.0257          |
+| 85    | 71.00%             | 63.04%              | 1.0213          |
+| 90    | 71.61%             | 62.84%              | 1.0201          |
+| 95    | 73.24%             | 62.78%              | 1.0219          |
+| 100   | 73.06%             | 62.75%              | 1.0393          |
 
 ### 📊 Results Comparison Table
 
