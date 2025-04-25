@@ -80,6 +80,21 @@ Trial #2
 
 ![Trial 1](yh/Trial_1.png)
 
+Trial #3
+
+### Trial #3 (40 Epochs - Data Augmentation (shear) and Learning Rate)
+
+| Epoch | Training Accuracy | Validation Accuracy | Validation Loss |
+|:-----:|:-----------------:|:-------------------:|:---------------:|
+| 1     | 23.26%             | 27.66%              | 1.7777          |
+| 5     | 46.84%             | 47.43%              | 1.3641          |
+| 10    | 53.33%             | 50.62%              | 1.2863          |
+| 20    | 57.72%             | 55.27%              | 1.1896          |
+| 30    | 62.74%             | 59.61%              | 1.0840          |
+| 40    | 64.11%             | 60.23%              | 1.0540          |
+
+
+
 
 ### 📊 Results Comparison Table
 
