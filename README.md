@@ -80,7 +80,6 @@ Trial #2
 
 ![Trial 1](yh/Trial_1.png)
 
-Trial #3
 
 ### Trial #3 (40 Epochs - Data Augmentation (shear) and Learning Rate)
 
@@ -93,8 +92,7 @@ Trial #3
 | 30    | 62.74%             | 59.61%              | 1.0840          |
 | 40    | 64.11%             | 60.23%              | 1.0540          |
 
-
-
+![Trial 3](yh/Trial_3.png)
 
 ### 📊 Results Comparison Table
 
