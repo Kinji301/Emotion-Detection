@@ -135,6 +135,8 @@ Ideal for therapy bots, customer service kiosks, or personal digital assistants 
 | 95    | 73.24%             | 62.78%              | 1.0219          |
 | 100   | 73.06%             | 62.75%              | 1.0393          |
 
+![Trial 5](yh/Real.png)
+
 ### 📊 Results Comparison Table
 
 | Trial     | Epochs | Training Accuracy | Validation Accuracy | Notes |
